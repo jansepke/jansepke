@@ -27,3 +27,7 @@
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-41BDF5?style=flat&logo=homeassistant&logoColor=white)
+
+### Support my projects
+
+If you like my projects consider [![ByMeABeer](https://img.shields.io/badge/-Buy%20me%20a%20beer-FFDD00?style=flat&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/jansepke)
